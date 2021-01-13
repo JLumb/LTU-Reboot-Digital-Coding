@@ -10,7 +10,7 @@ Introduction to Web Development
 
 What have I learnt?
 
-
+i have learnt how to clone files on github and export them to visual studio code so that i can edit them
 
 How did I use this in practice?
 
