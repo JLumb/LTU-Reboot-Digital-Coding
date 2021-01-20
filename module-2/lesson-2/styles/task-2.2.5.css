@@ -6,11 +6,11 @@
     color:red
 }
 
-#font-blue{               /*this is a class*/
+.font-blue{               /*this is a class*/
     color:blue
 }
 
-#font-purple{              /*this is a class*/
+.font-purple{              /*this is a class*/
     color:purple
 }
 
