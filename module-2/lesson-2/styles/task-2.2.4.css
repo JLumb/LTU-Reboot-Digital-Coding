@@ -1,3 +1,14 @@
 /* Your code goes below here */
 
+/*example of position selector*/
+p em {
+    color:red;
+    font-size:28px
+}
+
+p strong {
+    color:blue;
+    font-size:28px
+}
+
 /* Your code goes above here */
