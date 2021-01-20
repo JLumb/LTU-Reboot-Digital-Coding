@@ -1,3 +1,17 @@
 /* Your code goes below here */
 
+
+
+#Header{                   /*this is and id*/
+    color:red
+}
+
+#font-blue{               /*this is a class*/
+    color:blue
+}
+
+#font-purple{              /*this is a class*/
+    color:purple
+}
+
 /* Your code goes above here */
