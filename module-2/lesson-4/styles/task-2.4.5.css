@@ -1,0 +1,13 @@
+.sidebar {
+    border:solid 4px red;
+    width: 33%;
+    height:500px;
+    float:right
+}
+
+.main{
+    border:solid 4px orange;
+    width:65%;
+    height:500px;
+    float:left;
+}
