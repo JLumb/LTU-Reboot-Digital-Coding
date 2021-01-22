@@ -1,0 +1,17 @@
+.container{
+    position: relative;
+}
+
+.container img {
+    border: 5px solid red;
+    height:400px;
+    width:
+}
+.container span{
+    font-size:32px;
+    color:darkorchid;
+    position:absolute;
+    top:150px;
+    left:240px;
+    background-color: darkkhaki;   
+}
