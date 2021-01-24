@@ -6,7 +6,7 @@ body{
     
 }
 .container{
-width: %;
+width:auto;
 margin:0 auto;
 }
 
@@ -37,9 +37,10 @@ nav ul{
 
 nav li{
     display:inline-block;
+    float:left;
     margin-left: 70px;
     padding-top: 40px;
-    padding-right: 40px;
+    padding-right: 100px;
     position: relative;
 }
 
