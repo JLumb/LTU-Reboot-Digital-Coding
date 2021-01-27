@@ -20,10 +20,12 @@ function calculator (number1, number2, operator) {
             console.log(number1 - ' - ' + number2 + ' = ' + result );
             break;
 
+        default:
+            console.log('error');
+            break;
+
 }
 
-
 }
 
-
-calculator (5, 5, '+' )
+calculator (5, 5, '+')
