@@ -14,7 +14,7 @@ var favouriteRecipe = {
         'melt cheese',
     ],
     letscook: function (){
-        console.log('im hungry! lets cook')
+        console.log('im hungry! now lets cook')
     }
 }
 
