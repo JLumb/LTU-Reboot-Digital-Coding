@@ -34,6 +34,8 @@ function foodDiscount (array) {
             totalprice=totalprice + (array[index].price*array[index].quanitity);
         }
 
-        return totalprice.toFixed(2);
+
     }
+    return totalprice.toFixed(2);
+
 }
