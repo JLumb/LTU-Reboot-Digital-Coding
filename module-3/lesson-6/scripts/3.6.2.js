@@ -5,3 +5,5 @@ let newTextNode = document.createTextNode('New text node');
 
     newParagraph.appendChild(newTextNode);
     div.appendChild (newParagraph);
+
+    newParagraph.style.color = 'green'
